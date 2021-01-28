@@ -1,0 +1,1 @@
+# Made a simple colck using HTML CSS and JavaScript
